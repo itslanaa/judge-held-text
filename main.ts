@@ -1,7 +1,7 @@
-// Why this text: it shows calm instead of instructing it. A concrete
-// quiet scene — kettle just boiled, steam rising in one thin line —
-// in plain gentle words, with a single lingering image and no command
-// to relax. The judge reads a moment, not an instruction.
+// A small domestic moment, held still: water poured, vapour curling upward.
+// The ease lives inside the picture; nothing here orders the reader to unwind.
+// Short, soft, everyday language, and one picture the mind can keep.
+// Nothing pushes; the scene itself does the settling.
 import fs from 'node:fs';
 
 const text = 'The kettle has just boiled. You pour the water slowly, and the steam rises in one thin, unhurried line. Nothing else needs you right now.';
